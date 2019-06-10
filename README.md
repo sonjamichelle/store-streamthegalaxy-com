@@ -1,2 +1,2 @@
 # store-streamthegalaxy-com
-Galaxy Streams ZenCart
+Galaxy Streams Storefront
