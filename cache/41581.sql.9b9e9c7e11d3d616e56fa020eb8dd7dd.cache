@@ -1,3 +1,0 @@
-a:2:{s:4:"time";i:1560192085;s:6:"expire";i:86400;}
--- CubeCart Cache Split --
-a:1:{i:0;a:12:{s:11:"currency_id";s:1:"1";s:4:"name";s:20:"United States dollar";s:4:"code";s:3:"USD";s:3:"iso";s:3:"840";s:11:"symbol_left";s:1:"$";s:12:"symbol_right";s:0:"";s:5:"value";s:7:"1.00000";s:14:"decimal_places";s:1:"2";s:7:"updated";s:10:"1421884800";s:6:"active";s:1:"1";s:14:"symbol_decimal";s:1:".";s:15:"symbol_thousand";s:1:",";}}
