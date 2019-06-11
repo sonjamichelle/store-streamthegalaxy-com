@@ -76,7 +76,7 @@ cooked up.</p>
 		
 <!-- HTML5 PLayer -->
 
-<iframe src="https://player.radioforge.com/v2/shoutcast.html?radiolink=http://192.187.112.242:8000/index.html?sid=1&radiotype=shoutcast&bcolor=&image=https://store.streamthegalaxy.com/Galaxy_New_Logo_trans.png&facebook=https://www.facebook.com&twitter=https://www.twitter.com&title=Galaxy Streams is Streaming the Galaxy&artist=Various" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="max-width: 100%;" width="367" height="227"></iframe>
+<iframe src="https://player.radioforge.com/v2/shoutcast.html?radiolink=http://192.187.112.242:8000/stream?sid=1&radiotype=shoutcast&bcolor=&image=https://store.streamthegalaxy.com/Galaxy_New_Logo_trans.png&facebook=https://www.facebook.com&twitter=https://www.twitter.com&title=Galaxy Streams is Streaming the Galaxy&artist=Various" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" style="max-width: 100%;" width="367" height="227"></iframe>
 
 <!-- End HTML5 Player -->
 
