@@ -11,6 +11,10 @@
 .auto-style2 {
 	text-decoration: underline;
 }
+.auto-style3 {
+	text-align: center;
+	font-size: x-small;
+}
 </style>
 </head>
 
@@ -153,7 +157,7 @@ window.fbAsyncInit = function() {
 Staff Links:</p>
 <p align="Left">
 
-&nbsp;<a href="https://store.streamthegalaxy.com/CC">Cube Cart Demo</a><br />
+<a href="https://store.streamthegalaxy.com/CC">Cube Cart Demo</a><br />
 <a href="https://store.streamthegalaxy.com/CC/admin_gs.php">Cube Cart Admin Demo</a></p>
 <p align="Left">
 
@@ -166,9 +170,9 @@ Staff Links:</p>
 <hr>
 <p align="right">
 
-<span class="auto-style1">©Copyright 2016-1019</span><br class="auto-style1">
-<span class="auto-style1">Modified - 06/11/2019 </span><br class="auto-style1">
-<span class="auto-style1">Luna Sky - Galaxy Streams</span>
+<span class="auto-style3">©Copyright 2016-1019</span><br class="auto-style3">
+<span class="auto-style3">Modified - 06/11/2019 </span><br class="auto-style3">
+<span class="auto-style3">Luna Sky - Galaxy Streams</span>
 
 </p>
 
