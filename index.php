@@ -162,7 +162,7 @@ Staff Links:</p>
 <p align="Left">
 
 &nbsp;<a href="https://store.streamthegalaxy.com/ZC">Zen Cart Demo</a><br />
-&nbsp;<a href="https://store.streamthegalaxy.com/ZC/poinT-ptg-lUnch">Zen Cart Admin Demo
+&nbsp;<a href="https://store.streamthegalaxy.com/ZC/mAtch-KWc-shiRt">Zen Cart Admin Demo
 </a>
 
 </p>
