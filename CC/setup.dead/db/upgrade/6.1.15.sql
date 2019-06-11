@@ -1,1 +1,0 @@
-ALTER TABLE `CubeCart_option_group` ADD UNIQUE INDEX (`option_name`); #EOQ
