@@ -3,7 +3,7 @@
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Untitled 1</title>
+<title>Future Home of Galaxy Streams Store Front</title>
 <style type="text/css">
 .auto-style1 {
 	text-align: center;
@@ -28,6 +28,42 @@ The future home of the Galaxy streams web store.</p>
 
 We're working on some ooey gooey goodness so check back soon to see what we've 
 cooked up.</p>
+
+
+<!-- Facebook Messenger Code -->
+
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+  FB.init({
+    xfbml            : true,
+    version          : 'v3.3'
+  });
+};
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=install_email
+  page_id="441986513030084"
+  theme_color="#6699cc"
+    logged_in_greeting="Hi, Welcome to Galaxy Streams! How can we help you today?"
+    logged_out_greeting="Hi, Welcome to Galaxy Streams! How can we help you today?">
+</div
+
+
+<!-- End Facebook Messenger Code-->
+
+
+
 <hr>
 
 <center>
