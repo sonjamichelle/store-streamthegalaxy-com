@@ -1,22 +1,31 @@
-<?php
-/**
- * CubeCart v6
- * ========================================
- * CubeCart is a registered trade mark of CubeCart Limited
- * Copyright CubeCart Limited 2017. All rights reserved.
- * UK Private Limited Company No. 5323904
- * ========================================
- * Web:   http://www.cubecart.com
- * Email:  sales@cubecart.com
- * License:  GPL-3.0 https://www.gnu.org/licenses/quick-guide-gplv3.html
- */
-require dirname(__FILE__).DIRECTORY_SEPARATOR.'ini.inc.php';
-define('CC_IN_ADMIN', false);
 
-header('X-Frame-Options: SAMEORIGIN'); // do not allow iframes
+<head>
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+	font-size: x-large;
+}
+.auto-style2 {
+	color: #C725C7;
+}
+.auto-style3 {
+	text-align: center;
+	font-size: x-large;
+	color: #C725C7;
+}
+</style>
+</head>
 
-global $config_default;
-
-include CC_ROOT_DIR.CC_DS.'controllers'.CC_DS.'controller.index.inc.php';
-
-$GLOBALS['gui']->display('templates/'.$global_template_file);
+<p class="auto-style3"><strong>Stream the Galaxy</strong></p>
+<hr>
+<p class="auto-style3"><strong>Coming Soon!!!!</strong></p>
+<p class="auto-style3">&nbsp;</p>
+<p class="auto-style1"><strong><span class="auto-style2">Streams available in:</span><br class="auto-style2">
+<span class="auto-style2">Moonlight Estates</span><br class="auto-style2">
+<span class="auto-style2">DigiWorldz</span><br class="auto-style2">
+<br class="auto-style2"><span class="auto-style2">and possibly</span><br class="auto-style2">
+<br class="auto-style2"><span class="auto-style2">SecondLife too.</span></strong></p>
+<p class="auto-style3">&nbsp;</p>
+<p class="auto-style1"><strong><span class="auto-style2">An our site will get 
+prettier too!!!!!! </span><br class="auto-style2"><br class="auto-style2">
+<span class="auto-style2">We Promise.</span></strong></p>
